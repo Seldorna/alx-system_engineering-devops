@@ -1,5 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
 
+=======
+>>>>>>> ee64de81b42a518827b96491641870dea90a5d6b
 # Print the absolute path of the current working directory
 pwd
 
