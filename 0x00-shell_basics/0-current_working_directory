@@ -1,5 +1,4 @@
 #!/bin/bash
+# Print the absolute path of the current working directory
+pwd
 
-# Locating Directories absolute path
-
-"/root/alx-system_engineering-devops/0x00-shell_basics"
