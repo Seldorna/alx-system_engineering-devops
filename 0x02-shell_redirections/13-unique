@@ -1,2 +1,2 @@
 #!/bin/bash
-sort words.txt | uniq -ui
+sort | uniq -u
